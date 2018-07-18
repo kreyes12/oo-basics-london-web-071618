@@ -41,5 +41,6 @@ end
 def condition
   @condition
 end
+
 end
   
