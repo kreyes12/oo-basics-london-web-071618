@@ -2,6 +2,5 @@
 
 class Shoe
   
-def initialize_brand
-  
+def initialize(brand)
   
